@@ -1,0 +1,16 @@
+
+
+
+DNS Poisoning: When your try to connect to a website like twitter.com, your computer contacts its DNS servers and asks for the IP address associated with the website. If you receive an invalid response, you’ll look for the website at the wrong location and you won’t be able to connect. China intentionally poisons its DNS caches with wrong addresses for websites like Twitter, making them inaccessible. SOPA would have brought this technique to the USA.
+
+Blocking Access to IPs: China’s Great Firewall can also block access to certain IP addresses. For example, to prevent people from accessing Twitter’s servers even by accessing it directly at a certain IP or by using unofficial DNS servers that haven’t been poisoned, China could block access to the IP address of Twitter’s servers. This technique would also block other websites located at the same address if they’re using shared hosting.
+
+Analyzing and Filtering URLs: The firewall can scan URLs and block connections if they contain sensitive keywords. For example, Website Pulse shows us that http://en.wikipedia.org is accessible from within China, but http://en.wikipedia.org/wiki/Internet_censorship_in_the_People’s_Republic_of_China is not accessible — the firewall is looking at the URL and deciding to block web pages that appear to be about Internet censorship.
+
+Inspecting and Filtering Packets: “Deep packet inspection” can be used to examine unencrypted packets, looking for sensitive content. For example, a search performed on a search engine may fail if you search for politically controversial keywords as the packets associated with the search are examined and blocked.
+
+Resetting Connections: There are indications that, after the Great Firewall blocks such packets, it will block communication between both computers for a period of time. The firewall does this by sending a “reset packet,” essentially lying to both computers and telling them that the connection was reset so they can’t talk to each other.
+
+Blocking VPNs: In late 2012, the Great Firewall started trying to block VPNs. VPNs were previously used to escape the Great Firewall. They’re also critical for many business users, so this was a surprising move. The firewall learns to identify what encrypted VPN traffic looks like and kills VPN connections.
+
+
