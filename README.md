@@ -14,9 +14,9 @@ More：
 猩猩国度
 Chimp's Land
 
-[001.txt](./001.txt)
+[001.txt](./chimpsland/001.txt)
 
-[002.txt](./002.txt)
+[002.txt](./chimpsland/002.txt)
 
 或者 or:
 
