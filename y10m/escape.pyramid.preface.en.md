@@ -2,7 +2,9 @@ Title: English Preface of "Escape the Pyramid"
 Date:  2021-11-22
 Category: History
 
-<pre>
+[Chinese Version: ](/index)
+[Chinese Version: ](/y10m/escape.pyramid.preface)
+
 
 It is easier for an elephant to go through the eye of a needle 
 than for a corrupted man to enter the kingdom of Heaven.
@@ -22,25 +24,33 @@ It can't be discussed, only allow repeatings,
 It can't be studied, only promote propagandas...
 It always been forcefied by violences, and forced sink underground of the hell.
 
-为中共写历史的人，
-那些故意污染人类史的人，
-销售这些史书的人，
-讲授这些课程的人，
-传播这些谎言的人，
-我祝你们和你们的后代永远生活在其中。
+So, who write history books for CCP,
+who intentionally distort human records of history,
+who sell those books,
+who teach those books,
+who propagand lies,
+you're cursed and wish you live in the hell you build forever.
 
-中共的历史可以允当地狱的修造手册，
-我们将在历史中研究地狱的宏观结构：金字塔。
+CCP's books equals to the manuals of how to build hell,
+and we're going to study the macro structure of the hell: pyramid.
 
-如何修造地狱？
+How to build an hell?
 
-首先，建立权力的金字塔，
-金字塔是地狱的基本几何结构，
-根据几何学原理，它至少具备如下力量：
+Firstly, build a pyramid structure of power,
+setup layers of dictatorship,
+make it the single geometry of the society,
+this pyramid is the macro framework of the hell,
+by theory of geometry it can be proved the following is going to happen:
 
-  - 混淆逻辑，让人类不辨真伪。是非不分，则善恶颠倒。
-  - 倒置美丑，让人类无法建立人体美学，相反以食人为美。
-  - 熄灭神学，反复的推动畜生们爬到塔顶冒充伪神。
+    - Destroyed common sense of logic, confused truth and false, so people
+      can't judge the good from the bad.
+
+    - Ruin of arts, appreciation of the beauty not based on human figure, but
+      beasts eating flesh of human beings.
+
+    - No worship of God, and the rightous person been crucified.
+    - 
+
   - 残害人体，升华凌辱和性侵害的乐趣，以酷刑和杀害构建权力台阶。
   - 扭曲科学，把科学技术变为囚禁人类的牢笼，师夷长技以制夷。
   - 洗脑愚民，让奴隶们拥护奴隶制。
@@ -139,7 +149,6 @@ It always been forcefied by violences, and forced sink underground of the hell.
 这些知识可以被研究，被测试，被证明和证伪，
 逐渐提纯为知识中纯净的良知。
 
-</pre>
 
 
 # 正文

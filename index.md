@@ -147,5 +147,5 @@ Category: History
 
 # 正文
 
-[逃离极权金字塔](escape.pyramid)
+[逃离极权金字塔](/y10m/escape.pyramid)
 
