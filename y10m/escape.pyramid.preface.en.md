@@ -1,29 +1,26 @@
-Title: Preface of "Escape the Pyramid"
-Date:  2021-11-20
+Title: English Preface of "Escape the Pyramid"
+Date:  2021-11-22
 Category: History
-
-[English Version: ](/y10m/escape.pyramid.preface.en.md)
 
 <pre>
 
-天堂的门洞比针眼更小，
-可是，大象可以走进去，
-污秽的人却爬不入去。
+It is easier for an elephant to go through the eye of a needle 
+than for a corrupted man to enter the kingdom of Heaven.
 
-而地狱的门洞是相反的，
-人们蜂拥的爬出来。
+The gate of hell is in the opposite,
+filthy people come out in groups.
 
-我们研究的重点是地狱。
+We're going to focus on how to build a hell.
 
-是什么养料培育着繁荣的地狱生态？
+What's the fuel feeding up the ecosystem in the hell?
 
-是秽史养育了污秽的人。
+They read salacious history books and grew up corrupted.
 
-地狱的史书充满谎言，
-不可以证伪，只能证明，
-不可以谈论，只能复述，
-不可以研究，只可以宣传...
-暴力加持着历史，流下黄泉。
+The history books of the hell are full of cheatings,
+forbid to be falsified, only allow proofs.
+It can't be discussed, only allow repeatings,
+It can't be studied, only promote propagandas...
+It always been forcefied by violences, and forced sink underground of the hell.
 
 为中共写历史的人，
 那些故意污染人类史的人，
