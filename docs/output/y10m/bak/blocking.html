@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="generator" content="Pelican" />
+        <title>blocking.md</title>
+        <link rel="stylesheet" href="../../theme/css/main.css" />
+        <meta name="description" content="DNS Poisoning: When your try to connect to a website like twitter.com, your computer contacts its DNS servers and asks for the IP address..." />
+</head>
+
+<body id="index" class="home">
+        <header id="banner" class="body">
+                <h1><a href="../../">Notebook of History</a></h1>
+                <nav><ul>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/y10m/escape.pyramid">Escape the Pyramid</a></li>
+                    <li><a href="/y10m/history.and.china">History and China</a></li>
+                    <li><a href="/mis/">Article List</a></li>
+                </ul></nav>
+        </header><!-- /#banner -->
+<section id="content" class="body">
+  <article>
+    <header>
+      <h1 class="entry-title">
+        <a href="../../y10m/bak/blocking.html" rel="bookmark"
+           title="Permalink to blocking.md">blocking.md</a></h1>
+    </header>
+
+    <div class="entry-content">
+<footer class="post-info">
+        <abbr class="published" title="2021-11-25T13:46:13.302728+01:00">
+                Published: Thu 25 November 2021
+        </abbr>
+		<br />
+        <abbr class="modified" title="2021-11-25T13:46:13.302728+01:00">
+                Updated: Thu 25 November 2021
+        </abbr>
+
+        <address class="vcard author">
+                By                         <a class="url fn" href="../../author/andrew.html">Andrew</a>
+        </address>
+<p>In <a href="../../category/bak.html">bak</a>.</p>
+
+</footer><!-- /.post-info -->      <p>DNS Poisoning: When your try to connect to a website like twitter.com, your computer contacts its DNS servers and asks for the IP address associated with the website. If you receive an invalid response, you’ll look for the website at the wrong location and you won’t be able to connect. China intentionally poisons its DNS caches with wrong addresses for websites like Twitter, making them inaccessible. SOPA would have brought this technique to the USA.</p>
+<p>Blocking Access to IPs: China’s Great Firewall can also block access to certain IP addresses. For example, to prevent people from accessing Twitter’s servers even by accessing it directly at a certain IP or by using unofficial DNS servers that haven’t been poisoned, China could block access to the IP address of Twitter’s servers. This technique would also block other websites located at the same address if they’re using shared hosting.</p>
+<p>Analyzing and Filtering URLs: The firewall can scan URLs and block connections if they contain sensitive keywords. For example, Website Pulse shows us that http://en.wikipedia.org is accessible from within China, but http://en.wikipedia.org/wiki/Internet_censorship_in_the_People’s_Republic_of_China is not accessible — the firewall is looking at the URL and deciding to block web pages that appear to be about Internet censorship.</p>
+<p>Inspecting and Filtering Packets: “Deep packet inspection” can be used to examine unencrypted packets, looking for sensitive content. For example, a search performed on a search engine may fail if you search for politically controversial keywords as the packets associated with the search are examined and blocked.</p>
+<p>Resetting Connections: There are indications that, after the Great Firewall blocks such packets, it will block communication between both computers for a period of time. The firewall does this by sending a “reset packet,” essentially lying to both computers and telling them that the connection was reset so they can’t talk to each other.</p>
+<p>Blocking VPNs: In late 2012, the Great Firewall started trying to block VPNs. VPNs were previously used to escape the Great Firewall. They’re also critical for many business users, so this was a surprising move. The firewall learns to identify what encrypted VPN traffic looks like and kills VPN connections.</p>
+    </div><!-- /.entry-content -->
+
+  </article>
+</section>
+        <section id="extras" class="body">
+                <div class="blogroll">
+                        <h2>links</h2>
+                        <ul>
+                            <li><a href="https://github.com/goodagood/story.git">Git Text Source</a></li>
+                            <li><a href="https://pincong.rocks/">新品葱</a></li>
+                            <li><a href="https://2047.name/">2047</a></li>
+                            <li><a href="https://getpelican.com/">Pelican</a></li>
+                            <li><a href="https://www.python.org/">Python.org</a></li>
+                            <li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
+                        </ul>
+                </div><!-- /.blogroll -->
+                <div class="social">
+                        <h2>social</h2>
+                        <ul>
+
+                            <li><a href="https://stackoverflow.com/users/451718/andrew-1510">Stackoverflow.com</a></li>
+                            <li><a href="https://github.com/goodagood">Github.com</a></li>
+                            <li><a href="https://www.youtube.com/user/ifoundalotgoodcast/channels">youtube.com</a></li>
+                        </ul>
+                </div><!-- /.social -->
+        </section><!-- /#extras -->
+
+        <footer id="contentinfo" class="body">
+                <address id="about" class="vcard body">
+                Proudly powered by <a href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a href="https://www.python.org/">Python</a>.
+                </address><!-- /#about -->
+
+                <p>The theme is by <a href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
+        </footer><!-- /#contentinfo -->
+
+</body>
+</html>
