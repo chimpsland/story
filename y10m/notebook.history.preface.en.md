@@ -1,4 +1,4 @@
-Title: English Preface of "Escape the Pyramid"
+Title: English Preface for "Notebook of History"
 Date:  2021-11-22
 Category: History
 
@@ -49,9 +49,12 @@ by theory of geometry it can be proved the following is going to happen:
       beasts eating flesh of human beings.
 
     - No worship of God, and the rightous person been crucified.
-    - 
+    - enjoyments of torture, cruelties and abusive sex depression, 
+      it's going to be rewards on steps on the pyramid.
 
-  - 残害人体，升华凌辱和性侵害的乐趣，以酷刑和杀害构建权力台阶。
+    - Lost sense of science, people utilize technologies to take advantage of
+      their colleagues.
+
   - 扭曲科学，把科学技术变为囚禁人类的牢笼，师夷长技以制夷。
   - 洗脑愚民，让奴隶们拥护奴隶制。
   - 埋送自由，埋葬言论自由，从而扼杀学术自由和信仰自由。
